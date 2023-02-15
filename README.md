@@ -1,5 +1,6 @@
 # Noise-Analysis
 Stupid implementation of [Forensically](https://29a.ch/photo-forensics/#noise-analysis)'s Noise Analysis method. 
+Super-Slow code was enabled.
 
 ## Samples
 ### Original Image
@@ -10,3 +11,6 @@ Stupid implementation of [Forensically](https://29a.ch/photo-forensics/#noise-an
 
 ### Generated Image by Forensically
 ![다운로드](https://user-images.githubusercontent.com/43260510/216977325-b29b7366-39c3-4785-8221-ac6b2743d622.png)
+
+## References
+[Noise Analysis for Image Forensics, Jonas Wagner, 2015-08-21](https://29a.ch/2015/08/21/noise-analysis-for-image-forensics/)
